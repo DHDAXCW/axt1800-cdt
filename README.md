@@ -12,4 +12,5 @@
 
 ![image](https://user-images.githubusercontent.com/74764072/178981816-6284f331-e391-4518-8f3b-3d98e683aa4f.png)
 
-然后reboot重启
+然后reboot重启,开机直接识别1GB内存了
+![image](https://user-images.githubusercontent.com/74764072/178982144-23832918-eece-4c16-901d-d13aa4a1604a.png)
