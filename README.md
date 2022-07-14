@@ -8,7 +8,7 @@
 接下来执行下载包是 dt-AXT1800_1G.bin 丢到当前目录，如图所示
 ![image](https://user-images.githubusercontent.com/74764072/178981531-70c89040-6530-4d20-b228-c27e2c269625.png)
 
-然后执行mtd write t-AXT1800_1G.bin /dev/mtd5 
+然后执行mtd write cdt-AXT1800_1G.bin /dev/mtd5 
 
 ![image](https://user-images.githubusercontent.com/74764072/178981816-6284f331-e391-4518-8f3b-3d98e683aa4f.png)
 
